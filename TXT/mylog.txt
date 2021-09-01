@@ -6,3 +6,4 @@ ZCZC W00  10 L03 Created repo and messing around github
 ZCZC W00  30 L06 Trying my best to understand github pages through https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site and https://doit.vlsm.org/001.html
 ZCZC W00 120 L04 Finally got my Github Page up and running and sorted out
 ZCZC W00 180 L31 Prepared VirtualBox for future assignments
+ZCZC W00  30 L32 Learned about bash command
