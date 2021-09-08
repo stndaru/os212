@@ -7,3 +7,12 @@ ZCZC W00  30 L06 Trying my best to understand github pages through https://docs.
 ZCZC W00 120 L04 Finally got my Github Page up and running and sorted out
 ZCZC W00 180 L31 Prepared VirtualBox for future assignments
 ZCZC W00  30 L32 Learned about bash command
+ZCZC W01 120 L12 Assignment #02
+ZCZC W01  30 L13 Assignment #03
+ZCZC W01  30 L14 Assignment #04
+ZCZC W01  30 L15 Assignment #05
+ZCZC W01  10 L17 Assignment #07
+ZCZC W01  25 L62 Backing up Virtual Debian Guest to Online Repo
+ZCZC W01  15 L64 Helped friend with how to setup Debian Guest
+ZCZC W01 150 L80 Simping hololive vtubers and I dont even know why I am writing this
+
