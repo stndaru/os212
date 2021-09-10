@@ -1,4 +1,4 @@
-[Back to Home](/os212/index)
+[Back to Home](./os212/)
 
 # Welcome to OS212
 
