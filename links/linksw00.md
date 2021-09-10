@@ -1,4 +1,4 @@
-[Back to Home](./os212/)
+Click the OS212 above this to go back to the home page
 
 # Welcome to OS212
 
