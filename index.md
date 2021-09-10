@@ -9,6 +9,12 @@ Hello World! My name is Stefanus Ndaru Wedhatama, you can call me ```Ndaru```.
 I'm from Jakarta, Indonesia, currently enrolled in Universitas Indonesia, majoring in Computer Science.  
 I have interest in UI/UX Design and some other stuff such as Aviation and a little bit of Sci-Fi.
 
+### Top 10 Links
+
+Assuming there will only be one page that contains 10 links for the whole semester, you can access my top 10 links here. There might not be 10 links, but I'll give some links that are very useful, for me atleast.
+
+[Links to Top 10 Links](stndaru.github.io/os212/links)
+
 ### OS Material Assets
 
 Wanted a quick access towards recent materials? Just grab them here.  
@@ -17,7 +23,6 @@ I don't own any of these, I just provide direct access.
 | Plugin | README |
 | ------ | ------ |
 | Github | [My Github (stndaru)][pers-gh] |
-| Dillinger | [https://dillinger.io/][dillinger] |
 | LFS | [https://www.linuxfromscratch.org/][lfs] |
 | OS VLSM | [https://os.vlsm.org/][vlsm] |
 | Scele OS 21/22 | [scele.cs.ui.ac.id][scele] |
