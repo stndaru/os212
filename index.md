@@ -13,7 +13,7 @@ I have interest in UI/UX Design and some other stuff such as Aviation and a litt
 
 Assuming there will only be one page that contains 10 links for the whole semester, you can access my top 10 links here. There might not be 10 links, but I'll give some links that are very useful, for me atleast.
 
-[Links to Top 10 Links](os212/links/linksw00)
+[Links to Top 10 Links][top10links]
 
 ### OS Material Assets
 
@@ -37,6 +37,7 @@ Markdown is a really lightweight language, highly compatible anywhere, and is us
 [//]: # (Guide obtained from https://dillinger.io/)
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+   [top10links]: <https://stndaru.github.io/os212/links/linksw00>
    [pers-gh]: <https://github.com/stndaru>
    [dillinger]: <https://dillinger.io/>
    [lfs]: <https://www.linuxfromscratch.org/>
