@@ -31,7 +31,7 @@ Do you prefer vi over nano? Well I'm not here to judge, but to help you. This we
 [Dillinger.io Online Markdown Editor Link](https://dillinger.io/)  
 Dillinger is an online markdown language renderer. There will be two columns, on the left you write the code, and the website will render it on real-time on the right. I use this website to create this github page that you are viewing right now. Dillinger already wrote a lot and you can use this as reference to see how to create tables, create links, and the sort.
 
-#### 5. OSP4DISS VLSM
+#### 5. Learn REGEX The Easy Way
 
-[OSP4DISS Link](https://osp4diss.vlsm.org/)  
-All of you might and will know this, and probably used this, but this website created by our lecturer really helped me in creating the linux environment on VirtualBox. The information are provided very clearly with example so it is easy to read and understand.
+[Learn Regex Link](https://github.com/ziishaned/learn-regex)  
+REGEX! I hate it, you hate it, we hate it, but it is useful. Hard to understand, yet we have to understand it. Luckily, this website provides a really nice explanation to regex which should help you get the hang of it, atleast for the basics. 
