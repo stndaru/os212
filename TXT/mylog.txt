@@ -18,3 +18,4 @@ ZCZC W01 150 L80 Simping hololive vtubers and I dont even know why I am writing 
 ZCZC W02  30 L28 Created GPG key for Linux
 ZCZC W02  15 L25 Copied and created script for SHA256
 ZCZC W02 120 L10 Assignment#00 and watched cybersecurity video
+ZCZC W02  60 L04 Got into the ATTN page, not a good day. Fixed /LINKS/.
