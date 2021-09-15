@@ -9,7 +9,6 @@ by **Stefanus Ndaru Wedhatama**
 
 Hello World! My name is Stefanus Ndaru Wedhatama, you can call me ```Ndaru```.  
 I'm from Jakarta, Indonesia, currently enrolled in Universitas Indonesia, majoring in Computer Science.  
-I have interest in UI/UX Design and some other stuff such as Aviation and a little bit of Sci-Fi.
 
 ### Top 10 Links
 
