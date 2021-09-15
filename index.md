@@ -37,7 +37,7 @@ Markdown is a really lightweight language, highly compatible anywhere, and is us
 [//]: # (Guide obtained from https://dillinger.io/)
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [top10links]: <https://stndaru.github.io/os212/links/linksw00>
+   [top10links]: <https://stndaru.github.io/os212/LINKS/>
    [pers-gh]: <https://github.com/stndaru>
    [dillinger]: <https://dillinger.io/>
    [lfs]: <https://www.linuxfromscratch.org/>
