@@ -39,3 +39,8 @@ Dillinger is an online markdown language renderer. There will be two columns, on
 
 [Learn Regex Link](https://github.com/ziishaned/learn-regex)  
 REGEX! I hate it, you hate it, we hate it, but it is useful. Hard to understand, yet we have to understand it. Luckily, this website provides a really nice explanation to regex which should help you get the hang of it, atleast for the basics. 
+
+#### 5. Learn C Interactively
+
+[Learn C](https://www.learn-c.org/)  
+You will be learning about C language so the teaching assistant has given us this very amazing and interactive C tutorial on discord and I found it to be really helpful and informative. Go try it out now!
