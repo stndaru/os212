@@ -20,3 +20,7 @@ ZCZC W02  15 L25 Copied and created script for SHA256
 ZCZC W02 120 L10 Assignment#00 and watched cybersecurity video
 ZCZC W02  60 L04 Got into the ATTN page, not a good day. Fixed /LINKS/.
 ZCZC W02  60 L09 Finished all assignments in general
+ZCZC W03 120 L02 ZOOM meetings related
+ZCZC W03  60 L09 Assignment in General
+ZCZC W03  30 L24 Scripting
+ZCZC W03  60 L31 VirtualBox: install GNU/Linux, etc.
