@@ -25,3 +25,7 @@ ZCZC W03  60 L09 Assignment in General
 ZCZC W03  30 L25 Scripting
 ZCZC W03  60 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W03  60 L25 Scripting
+ZCZC W04 120 L02 ZOOM meetings related
+ZCZC W04  60 L09 Assignment in General
+ZCZC W04  90 L26 C-language learn about pointers
+ZCZC W04  30 L62 Reinstall/Restore/Backup Virtual Debian Guest backing up for W04

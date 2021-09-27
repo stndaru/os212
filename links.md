@@ -49,3 +49,8 @@ You will be learning about C language so the teaching assistant has given us thi
 
 [Learn SH vs BASH](https://www.baeldung.com/linux/sh-vs-bash)  
 I had problems this week because I can't tell the difference between sh and bash. Apparently, they are different! It's recommended to use bash since it's an iteration of sh. This website gives a brief explanation
+
+#### 8. Little vs Big Endian
+
+[Learn Little vs Big Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)  
+This week you will be learning about addressing and memory especially using C language. One of the most important aspect is the memory structure, little or big endian. This website will give you a brief yet great explanation of the difference between the two.
