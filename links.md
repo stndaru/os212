@@ -79,6 +79,6 @@ This week you will be learning about addressing and memory especially using C la
 
 #### 9. Memory Management Slides from Silberschatz
 
-[Chapter 9: Main Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch9.pptx&wdOrigin=BROWSELINK)
-[Chapter 10: Virtual Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch10.pptx&wdOrigin=BROWSELINK)
-This week you will be learning about memory management including paging and the sort. I couldn't find any better material for this week and since this is too specialize, you have to rely on previous semester's exam questions. I will provide the link that explain this week's material above.
+[Chapter 9: Main Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch9.pptx&wdOrigin=BROWSELINK)  
+[Chapter 10: Virtual Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch10.pptx&wdOrigin=BROWSELINK)  
+This week you will be learning about memory management including paging and the sort. I couldn't find any better material for this week and since this is too specialize, you have to rely on previous semester's exam questions. I will provide the link that explain this week's material above.  
