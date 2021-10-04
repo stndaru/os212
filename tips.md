@@ -13,9 +13,7 @@ by **Stefanus Ndaru Wedhatama**
 
 ### TIPS for Next Semester
 
-These are the top 10 links that helped me through this first week.
-Though there are only 5, I can attest you that they are helpful.  
-If I have the time, I might add some more.
+These are the tips that I have as suggestion for the next semester. Take it with a grain of salt. 🙂 
 
 #### 1. First Tip - Increase overhead for amount of small mistake that can happen
 
