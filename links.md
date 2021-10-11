@@ -82,3 +82,12 @@ This week you will be learning about addressing and memory especially using C la
 [Chapter 9: Main Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch9.pptx&wdOrigin=BROWSELINK)  
 [Chapter 10: Virtual Memory](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.os-book.com%2FOS10%2Fslide-dir%2FPPTX-dir%2Fch10.pptx&wdOrigin=BROWSELINK)  
 This week you will be learning about memory management including paging and the sort. I couldn't find any better material for this week and since this is too specialize, you have to rely on previous semester's exam questions. I will provide the link that explain this week's material above.  
+
+---
+
+### TOP Links for Week06
+
+#### 10. Forking in C Language: A Brief Explanation
+
+[fork() Link](https://www.geeksforgeeks.org/fork-system-call/)  
+This week you will be learning about forking in C language. A lot of the materials and details are explained and given through the weekly demo. This link will only give you a brief summary on what it is and how it works. Don't expect to great knowledge as this is just an introduction, the rest is on the weekly demos. 

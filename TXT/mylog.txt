@@ -36,3 +36,7 @@ ZCZC W05  60 L26 C-language trying to sort an array but to no avail
 ZCZC W05  15 L28 SSH, key-gen, tunneling, putty, winscp to access ckilat
 ZCZC W05  30 L60 Reinstall/Restore/Backup Computer after crash because low memory
 ZCZC W05  30 L63 Fixing Hardware Problems, graphic card becomes loose and often freezes
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06  60 L09 Assignment in General
+ZCZC W06 180 L26 C-language learning about fork()
+ZCZC W06  30 L62 Reinstall/Restore/Backup Virtual Debian Guest backing up for W06
