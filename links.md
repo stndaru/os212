@@ -91,3 +91,13 @@ This week you will be learning about memory management including paging and the 
 
 [fork() Link](https://www.geeksforgeeks.org/fork-system-call/)  
 This week you will be learning about forking in C language. A lot of the materials and details are explained and given through the weekly demo. This link will only give you a brief summary on what it is and how it works. Don't expect to great knowledge as this is just an introduction, the rest is on the weekly demos. 
+
+
+---
+
+### TOP Links for Week07
+
+#### 11. Process Synchronization: Critical Section Problem in OS
+
+[Process Synchronization - Guru99 Link](https://www.guru99.com/process-synchronization.html)  
+This week you will be learning about synchronization. We will be discussing a lot regarding Critical Section which leads towards the so-called race condition. This website should give some early help regarding this issue.  
