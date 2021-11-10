@@ -101,3 +101,12 @@ This week you will be learning about forking in C language. A lot of the materia
 
 [Process Synchronization - Guru99 Link](https://www.guru99.com/process-synchronization.html)  
 This week you will be learning about synchronization. We will be discussing a lot regarding Critical Section which leads towards the so-called race condition. This website should give some early help regarding this issue.  
+
+---
+
+### TOP Links for Week08
+
+#### 12. Linux From Scratch
+
+[LFS Link](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)  
+To be fair, there's not much link or website out there that explains the process of installing LFS better or more detailed than the original LFS link, so here's the LFS link. Be sure to read EVERYTHING because I saw several key information that are easily skippable
